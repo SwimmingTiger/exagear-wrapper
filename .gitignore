@@ -1,0 +1,4 @@
+*
+!.gitignore
+!/Makefile
+!/ubt_x32a64_al_wrapper.c
